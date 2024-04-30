@@ -1,33 +1,35 @@
 ### C++ ###
 # Prerequisites
-*.d
+BFS/*.d
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+BFS/*.slo
+BFS/*.lo
+BFS/*.o
+BFS/*.obj
 
 # Precompiled Headers
-*.gch
-*.pch
+BFS/*.gch
+BFS/*.pch
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+BFS/*.so
+BFS/*.dylib
+BFS/*.dll
 
 # Fortran module files
-*.mod
-*.smod
+BFS/*.mod
+BFS/*.smod
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+BFS/*.lai
+BFS/*.la
+BFS/*.a
+BFS/*.lib
 
 # Executables
-*.exe
-*.out
-*.app
+BFS/*.exe
+BFS/*.out
+BFS/*.app
+
+x64/
